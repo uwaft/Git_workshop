@@ -2,7 +2,7 @@
 Getting people familiar with git
 
 ## Prerequistes
-- Install git --> (https://git-scm.com/downloads)  If you're on windows you will be able to install git-bash with the instructions below
+- Install git --> (https://git-scm.com/downloads)  If you're on windows you will be prompted to install git-bash, follow the instructions below
   - Choose which text editor you prefer when prompted (this isn't very critical, leaving vim as your default editor is fine)
   - Check use git from git-bash only
   - Check use the OpenSSL library
