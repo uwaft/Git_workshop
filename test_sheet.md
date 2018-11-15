@@ -1,3 +1,3 @@
 # TEST SHEET
 
-- [ ] clone the awesome git repo
+- [ ] clone the git repo
