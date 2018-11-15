@@ -1,3 +1,3 @@
 # TEST SHEET
 
-- [ ] clone the git repo
+- [ ] clone the super git repo
