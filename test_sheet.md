@@ -1,3 +1,3 @@
 # TEST SHEET
 
-- [ ] clone the git repo
+- [ ] destroy the git repo
