@@ -1,3 +1,4 @@
 I am a member of UWAFT
-I am currently doing a project
+I am currently doing a project,
 This is my work-----
+I currently have a bug in my work and I need someone else to look at my code
