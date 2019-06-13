@@ -1,2 +1,0 @@
-This file contains useful stuff I want on my branch
-Rebase example
